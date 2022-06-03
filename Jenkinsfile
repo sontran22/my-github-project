@@ -12,9 +12,9 @@ pipeline{
     }
     stage("Test")
     {
-      stepsasd
+      steps
      {
-       echo 'Testing project...'
+       ecasd
          }
     }
     stage("Deploy")
